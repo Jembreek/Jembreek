@@ -1,4 +1,4 @@
-### <p align="center">👋Hello! I'm Pavel</p>
+### <p C>👋Hello! I'm Pavel</p>
 <p align="center">❤ I'm a frontend programmer from Russial</p>
 
 ##### Languages and Tools:
@@ -21,3 +21,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/rassvetalovpavel74?igshid=YTQwZjQ0NmI0OA==)
 [![Steam](https://img.shields.io/badge/steam-090909.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198878989184/)
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
