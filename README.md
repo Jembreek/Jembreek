@@ -3,6 +3,7 @@
 
 ##### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-090909?style=for-the-badge&logo=c%2B%2B&logoColor=3493eb)
 ![C#](https://img.shields.io/badge/c%23-090909.svg?style=for-the-badge&logo=c-sharp&logoColor=8f06a1)
 ![HTML5](https://img.shields.io/badge/html5-090909.svg?style=for-the-badge&logo=html5&logoColor=#FFA500)
 ![CSS3](https://img.shields.io/badge/css3-090909.svg?style=for-the-badge&logo=css3&logoColor=0744fa)
