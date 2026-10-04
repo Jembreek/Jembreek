@@ -1,5 +1,5 @@
 ### <p align="center">👋Hello! I'm Pavel</p>
-<p align="center">❤ I'm a frontend programmer from Russial</p>
+<p align="center">❤ I’m a frontend developer from Russia</p>
 
 ##### Languages and Tools:
 ![Python](https://img.shields.io/badge/python-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
