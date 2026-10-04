@@ -6,56 +6,67 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+developer;Learning+backend+every+day;Building+cool+APIs" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Jembreek&style=for-the-badge&color=8b5cf6)
 ![Followers](https://img.shields.io/github/followers/Jembreek?style=for-the-badge&logo=github&color=6d28d9)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 Обо мне
+### 🧑‍💻 Обо мне
 
 - 🎯 Иду к позиции **Junior Backend Developer**
 - 🔭 Сейчас изучаю: Django, FastAPI, PostgreSQL, Docker
 - ♟️ Люблю шахматы
 - 🌍 Учу испанский
 
-## 🛠 Стек
+<br/>
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,linux,html,css,js,git,github,figma&theme=dark" /> </div>
-
-## 📊 Статистика
+### 🛠 Стек
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jembreek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jembreek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Jembreek&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,linux,html,css,js,git,github,figma&theme=dark" />
 
 </div>
 
-## 🐍 Змейка ест мои контрибуции
+<br/>
+
+### 📊 Статистика
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jembreek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jembreek&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img src="https://streak-stats.demolab.com?user=Jembreek&theme=tokyonight&hide_border=true&background=00000000" />
+
+</div>
+
+<br/>
+
+### 🐍 Змейка
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake.svg?v=2" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg?v=2" />
 </picture>
 
 </div>
 
-## 📫 Связь
+<br/>
+
+### 📫 Связь
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/rassvetalovpavel74?igshid=YTQwZjQ0NmI0OA==)
+[![Instagram](https://img.shields.io/badge/Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/rassvetalovpavel74)
 [![Steam](https://img.shields.io/badge/steam-090909.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198878989184/)
-[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=FDFD673)](https://prassvetalov@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:prassvetalov@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
