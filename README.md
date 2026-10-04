@@ -6,9 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+developer;Learning+backend+every+day;Building+cool+APIs" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-![Followers](https://img.shields.io/github/followers/Jembreek?style=for-the-badge&logo=github&color=6d28d9)
+<br/>
 
 </div>
 
@@ -45,8 +43,6 @@
 </div>
 
 <br/>
-
-### 🐍 Змейка
 
 <div align="center">
 
