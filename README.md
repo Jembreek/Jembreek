@@ -1,37 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Привет,%20я%20Jembreek&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20FastAPI&descSize=18&descAlignY=58" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Python+developer;Learning+backend+every+day;Building+cool+APIs" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="https://raw.githubusercontent.com/Jembreek/Jembreek/main/assets/header.svg?v=1" width="100%" alt="Jembreek"/>
 
 </div>
 
 <br/>
-
-### 🧑‍💻 Обо мне
-
-- 🎯 Иду к позиции **Junior Backend Developer**
-- 🔭 Сейчас изучаю: Django, FastAPI, PostgreSQL, Docker
-- ♟️ Люблю шахматы
-- 🌍 Учу испанский
-
-<br/>
-
-### 🛠 Стек
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,docker,redis,linux,html,css,js,git,github,figma&theme=dark" />
+<img src="https://raw.githubusercontent.com/Jembreek/Jembreek/main/assets/about.svg?v=1" width="80%" alt="about"/>
 
 </div>
 
 <br/>
 
-### 📊 Статистика
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Jembreek/Jembreek/main/assets/skills.svg?v=1" width="100%" alt="skills"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -40,11 +29,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Jembreek&theme=tokyonight&hide_border=true&background=00000000" />
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg?v=2" />
@@ -52,24 +37,12 @@
   <img alt="snake" src="https://raw.githubusercontent.com/Jembreek/Jembreek/output/github-snake-dark.svg?v=2" />
 </picture>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Jembreek/Jembreek/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-</div>
-
-<br/>
-
-### 📫 Связь
-
-<div align="center">
+<br/><br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-090909.svg?style=for-the-badge&logo=Instagram&logoColor=B4068E)](https://instagram.com/rassvetalovpavel74)
 [![Steam](https://img.shields.io/badge/steam-090909.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198878989184/)
 [![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:prassvetalov@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Jembreek/Jembreek/main/assets/footer.svg?v=1" width="100%" alt=""/>
 
 </div>
