@@ -1,0 +1,36 @@
+name: Switch design
+
+on:
+  workflow_dispatch:
+    inputs:
+      design:
+        description: "Какой дизайн включить"
+        type: choice
+        options:
+          - quiet
+          - neon
+        default: quiet
+
+permissions:
+  contents: write
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Copy chosen design to README
+        env:
+          DESIGN: ${{ inputs.design }}
+        run: cp "variants/${DESIGN}.md" README.md
+
+      - name: Commit and push
+        env:
+          DESIGN: ${{ inputs.design }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Switch design to ${DESIGN}" || echo "Nothing to commit"
+          git push
